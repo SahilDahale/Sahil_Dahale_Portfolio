@@ -309,8 +309,9 @@ section {
   height: 80%;
 }
 
+
 .section__pic-container {
-  height: 400px;
+  height: 300px;
   width: 400px;
   margin: auto 0;
 }
@@ -319,6 +320,9 @@ section {
 
 #experience {
   position: relative;
+}
+.section-container{
+  justify-content: center;
 }
 
 .experience-sub-title {
@@ -333,6 +337,14 @@ section {
   justify-content: center;
   flex-direction: column;
 }
+.experience-sub-title{
+  text-align: center;
+}
+
+
+
+  
+
 
 .article-container {
   display: flex;
