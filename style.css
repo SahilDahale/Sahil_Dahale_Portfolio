@@ -252,10 +252,12 @@ section {
 
 .btn-color-2 {
   background: none;
+  justify-content: center;
 }
 
 .btn-color-2:hover {
   border: rgb(255, 255, 255) 0.1rem solid;
+  justify-content: center;
 }
 
 .btn-container {
@@ -432,6 +434,8 @@ article .icon {
 .email-icon {
   height: 2.5rem;
 }
+
+
 
 /* FOOTER SECTION */
 
